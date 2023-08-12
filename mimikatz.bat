@@ -1,6 +1,8 @@
 @echo off
 setlocal
 
+rem Download LaZagne from https://github.com/AlessandroZ/LaZagne/releases/download/1.1/Windows.zip
+
 rem Download from https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20220919/mimikatz_trunk.zip
 
 rem Extract it 
